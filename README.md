@@ -51,6 +51,7 @@ NFTs have transformed how we think about ownership, digital assets, and creator 
 - [Moralis](https://moralis.io/) – NFT APIs and SDKs for Ethereum, Polygon, Solana, and more.
 - [NFT.Storage](https://nft.storage/) – Decentralized storage for NFT metadata and assets via IPFS.
 - [Pinata](https://www.pinata.cloud/) – Media and metadata storage service powered by IPFS.
+- [NFT Generator](https://github.com/tg12/nft-generator) – Python tool to generate your own NFT collections by compositing layered trait images.
 
 ## Testing & Debugging
 
