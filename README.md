@@ -1,4 +1,4 @@
-# Awesome NFT Development [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome NFT Development [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -89,11 +89,11 @@ NFTs have transformed how we think about ownership, digital assets, and creator 
 
 ## Related Awesome Lists
 
-- **[Awesome Web3 Development](https://github.com/awesomelistsio/awesome-web3-development)** – Tools and frameworks for building dApps and decentralized services.
-- **[Awesome Ethereum](https://github.com/awesomelistsio/awesome-ethereum)** – Comprehensive list of resources for Ethereum development.
-- **[Awesome Blockchain Protocols](https://github.com/awesomelistsio/awesome-blockchain-protocols)** – Blockchain infrastructure, protocols, and layers.
-- **[Awesome Smart Contracts](https://github.com/awesomelistsio/awesome-smart-contracts)** – Libraries and tools for smart contract development.
-- **[Awesome AI Art](https://github.com/awesomelistsio/awesome-ai-art)** – Tools and platforms for generating and minting NFT art.
+- **[Awesome Web3 Development](https://github.com/brandonhimpfen/awesome-web3-development)** – Tools and frameworks for building dApps and decentralized services.
+- **[Awesome Ethereum](https://github.com/brandonhimpfen/awesome-ethereum)** – Comprehensive list of resources for Ethereum development.
+- **[Awesome Blockchain Protocols](https://github.com/brandonhimpfen/awesome-blockchain-protocols)** – Blockchain infrastructure, protocols, and layers.
+- **[Awesome Smart Contracts](https://github.com/brandonhimpfen/awesome-smart-contracts)** – Libraries and tools for smart contract development.
+- **[Awesome AI Art](https://github.com/brandonhimpfen/awesome-ai-art)** – Tools and platforms for generating and minting NFT art.
   
 ## Contribute
 
